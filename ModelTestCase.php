@@ -12,6 +12,7 @@ abstract class ModelTestCase extends TestCase
     /**
     Another change
      * @param Model $model
+     2222
      * @param array $fillable
      * @param array $guarded
      * @param array $hidden
